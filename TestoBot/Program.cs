@@ -1,4 +1,9 @@
-﻿using System;
+﻿/// Telegram Bot (length & sum)
+/// https://t.me/utility777_bot
+/// @utility777_bot
+
+
+using System;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
